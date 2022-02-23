@@ -1,0 +1,21 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.26f1 (6f076387c01d) revision 7276387'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1526; Version 2009; 64bit' Language: 'ko' Physical Memory: 10115 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.26f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/stero/OneDrive/문서/Fox_Run/Fox Run
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+57644
+Successfully changed project path to: C:/Users/stero/OneDrive/문서/Fox_Run/Fox Run
+C:/Users/stero/OneDrive/문서/Fox_Run/Fox Run
+Using Asset Import Pipeline V2.
